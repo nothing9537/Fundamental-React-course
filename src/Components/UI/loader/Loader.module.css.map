@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAC;EACJ,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,aAAa,EAAE,GAAG;EAClB,MAAM,EAAE,eAAe;CAAG",
+    "sources": [
+        "Loader.module.sass"
+    ],
+    "names": [],
+    "file": "Loader.module.css"
+}
